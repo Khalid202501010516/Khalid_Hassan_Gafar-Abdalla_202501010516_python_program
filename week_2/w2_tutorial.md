@@ -68,8 +68,7 @@ Entry Allowed = False
 
 **Answer:**
 
-![alt text](truth_table_activity2.png)
-
+![alt text](completed_truth_table.png)
 
 
 ### Design an Algorithm (The Step-by-Step Solution)
@@ -88,19 +87,19 @@ Entry Allowed = False
 ```text
 START
 
-INPUT __________
+INPUT Age13
 
-INPUT __________
+INPUT WithAdult
 
-INPUT __________
+INPUT HasTicket
 
-IF ________________________________________________
+IF (Age13 OR WithAdult) AND HasTicket
 
-    DISPLAY "________________"
+    DISPLAY "Entry Allowed"
 
 ELSE
 
-    DISPLAY "________________"
+    DISPLAY "Entry Not Allowed"
 
 END IF
 
