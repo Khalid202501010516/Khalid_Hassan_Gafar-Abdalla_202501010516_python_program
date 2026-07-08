@@ -1,0 +1,5 @@
+First I found that the calculation function was missing, and fixed it by adding calulation_total(price, quantity)
+Second the function multiplies price by quantity.
+I also added validation for invalid price and invalid quantity to make sure.
+Then I tested the program using pytest.
+All tests passed successfully.
