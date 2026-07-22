@@ -18,3 +18,7 @@ python main.py
 - Select ticket priority
 - Automatically assign a technician
 - Display the completed helpdesk ticket
+
+## The Video
+ 
+ ![alt text](<Screen Recording 2026-07-22 070121.gif>)
